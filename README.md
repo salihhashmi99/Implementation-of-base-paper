@@ -33,7 +33,7 @@ sentences appears in all requirement documents and represent it as a vector. We 
 called bag of words (BOW). The rows corresponds to a requirement sentence and each column represents a unique word. The occurrence number in case the word is exist in the sentence 
 increasing by one.
 
-** Term Frequency Inverse Document Frequency**
+**Term Frequency Inverse Document Frequency**
 In this technique of TF-IDF (Term Frequency Inverse Document Frequency), we quantify a word in requirement documents. Weight of each word were computed which signifies of its 
 importance in all requirement documents. This method is widely used in information retrieval in NLP. This methods will improve the basic features that can be extracted from the 
 requirement sentences so that can differentiate between NFR categories.
